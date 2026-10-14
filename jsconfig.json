@@ -1,0 +1,11 @@
+{
+    "typeAcquisition": {
+        "include": [
+            "jquery"
+        ]
+    },
+    "compilerOptions": {
+    "module": "es6",
+    "allowSyntheticDefaultImports": true
+  }
+}
